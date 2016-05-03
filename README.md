@@ -9,7 +9,18 @@ SIGBED is intended to be a focal point within ACM for all aspects of embedded co
 
 ## Virtual Window
 A live feed camera of outside weather to an indoor base station for use in POST 318B (ICSpace)
-Timeline:
+
+##### Resources:
+ * [Embedded Linux Wiki](http://elinux.org/Main_Page "Embedded Linux")
+ * [MakerZone Arduino Weather Station](http://makerzone.mathworks.com/resources/arduino/weather-station-data-analysis/ "Weather Station")
+ * [Raspberri Pi Weather Station](http://www.raspberryweather.com/necessary-parts/ "Pi Weather Station")
+
+#### Research Refences
+ * [Effects of Lighting on Work](http://www.andrewjensen.net/how-office-lighting-affects-productivity/ "Effects of Lighting")
+ * [Daylight and Productivity](http://www.thespaceplace.net/articles/hobstetter200703.php "Daylight Effects")
+ * [A Literature Review of the Effects of Natural Light on Building Occupants](http://www.nrel.gov/docs/fy02osti/30769.pdf "Natural Light Effects")
+
+##### Timeline:
  * August: Collect blueprints and decide on the live feed weather station design
  * September: Order parts for, assemble, and test the live feed weather station hardware
  * October: Develop the weather station software
