@@ -4,3 +4,6 @@ clean up tool box
 -new battery for multimeter
 -new battery for electronic calipers
 -recommision Solidoodle?
+
+In short:
+Weather Station -> Server -> WebApp
