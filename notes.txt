@@ -1,11 +1,11 @@
 student memberships at HICapacity (maker@hicapacity.org/hello@hicapacity.org)
-incandecant bulb/heater bulb to mimic sunlight outside
+  -probably not needed
 storage bin for hardware
-weekly meeting 4p-9p at HICapacity
+weekly meeting 4p-9p somewhere
 clean up tool box
 -new battery for multimeter
 -new battery for electronic calipers
 -recommision Solidoodle?
 
 In short:
-Weather Station -> Server -> WebApp
+weather station website (static ip) -> 
